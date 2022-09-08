@@ -1,0 +1,16 @@
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\sporoyunu\sporoyunu\obj\Debug\sporoyunu.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\sporoyunu\sporoyunu\obj\Debug\sporoyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\sporoyunu\sporoyunu\obj\Debug\Interop.WMPLib.dll
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\sporoyunu\sporoyunu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\sporoyunu\sporoyunu\obj\Debug\sporoyunu.csproj.ResolveComReference.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\sporoyunu\sporoyunu\obj\Debug\sporoyunu.Form1.resources
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\sporoyunu\sporoyunu\obj\Debug\sporoyunu.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\sporoyunu\sporoyunu\obj\Debug\sporoyunu.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\sporoyunu\sporoyunu\obj\Debug\sporoyunu.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\sporoyunu\sporoyunu\bin\Debug\sporoyunu.exe.config
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\sporoyunu\sporoyunu\bin\Debug\sporoyunu.exe
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\sporoyunu\sporoyunu\bin\Debug\sporoyunu.pdb
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\sporoyunu\sporoyunu\bin\Debug\Interop.WMPLib.dll
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\sporoyunu\sporoyunu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\sporoyunu\sporoyunu\obj\Debug\sporoyunu.exe
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\sporoyunu\sporoyunu\obj\Debug\sporoyunu.pdb
